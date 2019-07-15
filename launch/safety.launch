@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="safety" name="safety" type="safety.py" output="screen" />
+</launch>
